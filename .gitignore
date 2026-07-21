@@ -1,0 +1,27 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+*.pem
+*.key
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+
+# Node & Build artifacts (if adding projects later)
+node_modules/
+dist/
+build/
+.next/

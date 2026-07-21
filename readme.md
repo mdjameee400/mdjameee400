@@ -5,7 +5,7 @@
 
 <br><br>
 
-# 👋 Hi, I'm MD JAMEE
+# 👋 Hi, I'm JAMEE
 ### 🚀 Full-Stack Web Developer | ⚡ Competitive Programmer | 🎓 Student @ East Delta University
 
 <br>
@@ -120,4 +120,4 @@ mdjameee400@github
 
 </div>
 
-
+

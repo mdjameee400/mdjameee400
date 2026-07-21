@@ -35,7 +35,7 @@
 
 mdjameee400@github
 ─────────────────────────────────────────────────────────────
-💻 Role       : Full-Stack Web Developer (Student)
+💻 Role       : Full-Stack Web Developer
 🎓 Education  : East Delta University
 🏆 Focus      : Competitive Programming | Tech Enthusiast
 🤝 Open For   : Internships & Collaborative Tech Projects

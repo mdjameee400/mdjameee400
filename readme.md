@@ -24,26 +24,23 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdjameee400&style=flat-square&color=39d353&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 </div>
 
 <br>
 
-## ⚡ About Me
-
-```sys
-● ● ●          mdjameee400@github: ~$ neofetch
-
-mdjameee400@github
-─────────────────────────────────────────────────────────────
-💻 Role       : Full-Stack Web Developer
-🎓 Education  : East Delta University
-🏆 Focus      : Competitive Programming | Tech Enthusiast
-🤝 Open For   : Internships & Collaborative Tech Projects
-```
-
-<br>
-
 ## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ### 🌐 Frontend Development
 <p align="left">
@@ -60,6 +57,14 @@ mdjameee400@github
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🎨 3D & Computer Graphics
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/3D_Animation-EA7600?style=for-the-badge&logo=blender&logoColor=white" alt="3D Animation" />
 </p>
 
 ### 🧰 Tools & Technologies
@@ -69,6 +74,21 @@ mdjameee400@github
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
+
+<br>
+
+## ⚡ About Me
+
+```sys
+● ● ●          mdjameee400@github: ~$ neofetch
+
+mdjameee400@github
+─────────────────────────────────────────────────────────────
+💻 Role       : Full-Stack Web Developer
+🎓 Education  : East Delta University
+🏆 Focus      : Competitive Programming | Tech Enthusiast
+🤝 Open For   : Internships & Collaborative Tech Projects
+```
 
 <br>
 
@@ -108,16 +128,3 @@ mdjameee400@github
 </picture>
 
 </div>
-
-<br><br>
-
-<div align="center">
-
----
-
-👁️ **Profile Views**  
-![Profile Views](https://komarev.com/ghpvc/?username=mdjameee400&style=flat-square&color=39d353&label=PROFILE+VIEWS)
-
-</div>
-
-
